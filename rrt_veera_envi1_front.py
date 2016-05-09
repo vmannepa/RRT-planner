@@ -398,7 +398,7 @@ def main():
         
 
    
-# if python says run, then we should run
+
 if __name__ == '__main__':
 
     start_node=input('Enter start node :')
